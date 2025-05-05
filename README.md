@@ -1,6 +1,6 @@
 # 💰 Projeto Banco Terminal - Java
 
-Este é um projeto de um sistema bancário simples desenvolvido em Java, com interface no terminal. O objetivo foi praticar conceitos fundamentais da linguagem, como orientação a objetos, estrutura de dados e interação via console.
+Este é um projeto de um sistema bancário simples desenvolvido em Java, com interface no terminal. O objetivo foi praticar conceitos fundamentais da linguagem, como estrutura de repetição, lógica e interação via console.
 
 ## 🧩 Funcionalidades
 
